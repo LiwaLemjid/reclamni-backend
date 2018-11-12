@@ -1,0 +1,5 @@
+npm init --yes //to initialize npm 
+npm install express //to install express.js
+npm install joi // to install joi (input validation)
+npm install mongoose
+npm install lodash
